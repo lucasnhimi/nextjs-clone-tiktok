@@ -8,8 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "mongodb": "^3.6.2",
     "next": "9.5.3",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "styled-components": "^5.2.0",
+    "styled-icons": "^10.21.0"
   }
 }
