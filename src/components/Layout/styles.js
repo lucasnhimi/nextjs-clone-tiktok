@@ -5,11 +5,11 @@ export const Container = styled.div`
   display: flex;
   justify-content: flex-start;
   flex: 1 1 auto;
-  padding: 70px;
+  padding-top: 70px;
 `;
 
 export const SidebarContainer = styled.div`
-  flex: 0 0 250px;
+  flex: 0 0 240px;
   @media (max-width: 768px) {
     display: none;
     flex: 0;

@@ -31,7 +31,7 @@ const people = [
     name: 'Anitta',
     userName: '@anitta',
     avatar:
-      'https://p77-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/cbf8d6144770083807ece585afc668ce.jpeg?x-expires=1600855200&x-signature=orikdGbLFI6sYtuTa4rg2yJHLAw%3D',
+      'https://p77-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/cbf8d6144770083807ece585afc668ce.jpeg?x-expires=1601125200&x-signature=eEiuYnl%2Fl3JG0Glicyoe9lX8M0A%3D',
   },
   {
     name: 'Isis Valverde',
